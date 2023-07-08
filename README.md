@@ -1,6 +1,8 @@
-# latihan_form
+# Tugas Pertemuan 11
 
-A new Flutter project.
+NIM : 20210120068 <br/>
+NAMA : EGA PERMANA <br/>
+PRODI : TEKNIK INFORMATIKA <br/>
 
 ## Getting Started
 
